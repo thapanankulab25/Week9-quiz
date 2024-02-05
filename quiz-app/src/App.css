@@ -10,7 +10,7 @@
 .menu, .quiz,.score{
   width: 500px;
   height: 500px;
-  background-color: orange;
+  background-color: #b95747;
   border-radius: 10px;
   display: flex;
   flex-direction: column;
