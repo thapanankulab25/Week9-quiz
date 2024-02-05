@@ -8,8 +8,8 @@
 }
 
 .menu, .quiz,.score{
-  width: 500px;
-  height: 500px;
+  width: 1750px;
+  height: 750px;
   background-color: #b95747;
   border-radius: 10px;
   display: flex;
