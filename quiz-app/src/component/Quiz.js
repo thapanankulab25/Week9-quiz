@@ -7,8 +7,7 @@ const Quiz = ()=>{
     const [current,setCurrent] = useState(0)
     const [selectChoice,setSelectChoice] = useState("")
     
-    const context = useContext(DataContext);
-    const { score, setScore,setAppState } = context;
+    const { score, setScore,setAppState } = useContext(DataContext);
 
 
     useEffect(()=>{

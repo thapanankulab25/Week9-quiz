@@ -8,6 +8,7 @@ const Menu = ()=>{
     return(
         
         <div className="menu">
+               <img src={"https://kmutnb.ac.th/KMUTNB/media/kmutnb/images/kmutnb_index_Logo.png"} alt="Logo" />
             <h1>Menu Component</h1>
             <button onClick={()=>setAppState("quiz")}>เริ่มทำแบบทดสอบ</button>
         </div>
