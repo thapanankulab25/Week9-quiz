@@ -20,7 +20,7 @@ const Score = ()=>{
         } else if (score >= 1) {
           return "พอใช้นะ";
         } else {
-          return "ไม่ถูกเลยเหรอ";
+          return "ไม่ถูกเลยเหรอ เอาใหม่";
         }
       };
 
